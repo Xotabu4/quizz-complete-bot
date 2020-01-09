@@ -1,0 +1,16 @@
+{
+  "name": "quizz-complete-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node complete-quizz.js"
+  },
+  "module": "commonjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
